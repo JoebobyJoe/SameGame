@@ -3,6 +3,8 @@
 
 Same Game is sort of like Candy Crush, randomly generated colored spheres are created on a grid. When hovering over a color, all connect spheres are highlighted. If the user clicks, all highlighted spheres disappear and any gaps are closed in. The point of the game is to remove all the spheres in as little clicks as possible. There has to be two or more spheres next to each other in order for them to be clickable and if there are random spheres left over, that can't be clicked, the player loses
 
+# Screenshots
+
 Start Of The Game
 
 ![Start of the Game](https://github.com/JoebobyJoe/SameGame/blob/main/ScreenShots/Start.PNG)
